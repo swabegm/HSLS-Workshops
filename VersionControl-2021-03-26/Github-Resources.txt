@@ -1,4 +1,5 @@
 2021-03-26, 2:53pm: I'm editing this file live in Github so we can see the changes that I've made.
+3:02pm: I'm editing it again to compare with the master branch.
 
 So you want to know more about how Git and Github work on a fundamental level? That's beyond the scope of our hour together, but I suggest you look at these resources:
 
