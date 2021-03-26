@@ -1,7 +1,0 @@
-So you want to know more about how Git and Github work on a fundamental level? That's beyond the scope of our hour together, but I suggest you look at these resources:
-
-- Pro Git Book, 2nd edition, by Scott Chacon and Ben Straub. Start here! The whole thing is great and available for free: https://git-scm.com/book/en/v2
-
-- Blog post by Nick Farina, "Git is simpler than you think," focuses on Git, but it's true for Github as well: https://nfarina.com/post/9868516270/git-is-simpler
-
-- Blog post by Mary Rose Cook, "Git from the inside out," is a lot more complicated and requires more computer science terminology, but it's comprehensive: https://maryrosecook.com/blog/post/git-from-the-inside-out
