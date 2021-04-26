@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25337/T7/ptycho.v2.0/US.6142004</identifier>
+  <creators>
+    <creator>
+      <creatorName>Van Panhuis, Willem</creatorName>
+      <givenName>Willem</givenName>
+      <familyName>Van Panhuis</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0002-7278-9982</nameIdentifier>
+      <affiliation>University of Pittsburgh Graduate School of Public Health</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Cross, Anne</creatorName>
+      <givenName>Anne</givenName>
+      <familyName>Cross</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0003-1707-253X</nameIdentifier>
+      <affiliation>University of Pittsburgh Graduate School of Public Health</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Burke, Donald</creatorName>
+      <givenName>Donald</givenName>
+      <familyName>Burke</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0002-5704-8094</nameIdentifier>
+      <affiliation>University of Pittsburgh Graduate School of Public Health</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en-us">Counts of Influenza reported in UNITED STATES OF AMERICA: 1919-1951</title>
+    <title xml:lang="en-us" titleType="Subtitle">Project Tycho dataset</title>
+  </titles>
+  <publisher>University of Pittsburgh</publisher>
+  <publicationYear>2018</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Infectious disease incidence</resourceType>
+  <subjects>
+    <subject xml:lang="en-us" subjectScheme="NCBI Taxonomy" schemeURI="https://fairsharing.org/bsg-s000154" valueURI="http://purl.bioontology.org/ontology/NCBITAXON/11309">unidentified influenza virus</subject>
+    <subject xml:lang="en-us" subjectScheme="SNOMED-CT" schemeURI="https://fairsharing.org/bsg-s000098" valueURI="http://purl.bioontology.org/ontology/SNOMEDCT/6142004">Influenza</subject>
+    <subject xml:lang="en-us" subjectScheme="ISO 3166" schemeURI="https://www.iso.org/standard/63545.html" valueURI="https://www.iso.org/obp/ui/#iso:code:3166:US">US</subject>
+    <subject xml:lang="en-us" subjectScheme="SNOMED-CT" schemeURI="https://fairsharing.org/bsg-s000098" valueURI="http://purl.bioontology.org/ontology/SNOMEDCT/398241000">Case</subject>
+    <subject xml:lang="en-us" subjectScheme="SNOMED-CT" schemeURI="https://fairsharing.org/bsg-s000098" valueURI="http://purl.bioontology.org/ontology/SNOMEDCT/419620001">Death</subject>
+    <subject xml:lang="en-us" subjectScheme="Interval URIS in Statistical Data" schemeURI="https://www.epimorphics.com/using-interval-uris-in-statistical-data/" valueURI="http://reference.data.gov.uk/id/gregorian-interval/1919-10-26T00:00:00/P32Y1M13D">1919-10-26 - 1951-12-08</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="Researcher">
+      <contributorName>Grefenstette, John</contributorName>
+      <givenName>John</givenName>
+      <familyName>Grefenstette</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0001-6180-5177</nameIdentifier>
+      <affiliation>University of Pittsburgh Graduate School of Public Health</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName>Jung, Su Yon</contributorName>
+      <givenName>Su Yon</givenName>
+      <familyName>Jung</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0002-0513-1830</nameIdentifier>
+      <affiliation>University of California, Los Angeles</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName>Chok, Nian Shong</contributorName>
+      <givenName>Nian Shong</givenName>
+      <familyName>Chok</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID"/>
+      <affiliation>University of Pittsburgh Graduate School of Public Health</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName>Eng, Heather</contributorName>
+      <givenName>Heather</givenName>
+      <familyName>Eng</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID"/>
+      <affiliation>University of Pittsburgh Graduate School of Public Health</affiliation>
+    </contributor>
+    <contributor contributorType="ProjectMember">
+      <contributorName>Lee, Bruce</contributorName>
+      <givenName>Bruce</givenName>
+      <familyName>Lee</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0003-2633-8651</nameIdentifier>
+      <affiliation>Johns Hopkins Bloomberg School of Public Health</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName>Zadorozhny, Vladimir</contributorName>
+      <givenName>Vladimir</givenName>
+      <familyName>Zadorozhny</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0001-6420-1926</nameIdentifier>
+      <affiliation>University of Pittsburgh School of Library and Information Science</affiliation>
+    </contributor>
+    <contributor contributorType="ProjectMember">
+      <contributorName>Brown, Shawn</contributorName>
+      <givenName>Shawn</givenName>
+      <familyName>Brown</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID"/>
+      <affiliation>Pittsburgh Supercomputing Center</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName>Cummings, Derek</contributorName>
+      <givenName>Derek</givenName>
+      <familyName>Cummings</familyName>
+      <nameIdentifier schemeURI="https://fairsharing.org/FAIRsharing.nx58jg" nameIdentifierScheme="Open Researcher and Contributor ID">0000-0002-9437-1907</nameIdentifier>
+      <affiliation>University of Florida Department of Biology</affiliation>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Created">2013-11-28</date>
+  </dates>
+  <language>en-us</language>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://www.tycho.pitt.edu/dataset/US.6142004</alternateIdentifier>
+  </alternateIdentifiers>
+  <sizes>
+    <size>56.57MB</size>
+  </sizes>
+  <formats>
+    <format>CSV</format>
+  </formats>
+  <version>2.0</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</rights>
+  </rightsList>
+  <descriptions>
+    <description xml:lang="en-us" descriptionType="TechnicalInfo">Project Tycho datasets contain case counts for reported disease conditions for countries around the world. The Project Tycho data curation team extracts these case counts from various reputable sources, typically from national or international health authorities, such as the US Centers for Disease Control or the World Health Organization. These original data sources include both open- and restricted-access sources. For restricted-access sources, the Project Tycho team has obtained permission for redistribution from data contributors. All datasets contain case count data that are identical to counts published in the original source and no counts have been modified in any way by the Project Tycho team. The Project Tycho team has pre-processed datasets by adding new variables, such as standard disease and location identifiers, that improve data interpretabilty. We also formatted the data into a standard data format.
+
+Each Project Tycho dataset contains case counts for a specific condition (e.g. measles) and for a specific country (e.g. The United States). Case counts are reported per time interval. In addition to case counts, datsets include information about these counts (attributes), such as the location, age group, subpopulation, diagnostic certainty, place of aquisition, and the source from which we extracted case counts. One dataset can include many series of case count time intervals, such as "US measles cases as reported by CDC", or "US measles cases reported by WHO", or "US measles cases that originated abroad", etc. 
+
+Depending on the intended use of a dataset, we recommend a few data processing steps before analysis:
+- Analyze missing data: Project Tycho datasets do not inlcude time intervals for which no case count was reported (for many datasets, time series of case counts are incomplete, due to incompleteness of source documents) and users will need to add time intervals for which no count value is available. Project Tycho datasets do include time intervals for which a case count value of zero was reported.
+- Separate cumulative from non-cumulative time interval series. Case count time series in Project Tycho datasets can be "cumulative" or "fixed-intervals". Cumulative case count time series consist of overlapping case count intervals starting on the same date, but ending on different dates. For example, each interval in a cumulative count time series can start on January 1st, but end on January 7th, 14th, 21st, etc. It is common practice among public health agencies to report cases for cumulative time intervals. Case count series with fixed time intervals consist of mutually exxclusive time intervals that all start and end on different dates and all have identical length (day, week, month, year). Given the different nature of these two types of case count data, we indicated this with an attribute for each count value, named "PartOfCumulativeCountSeries". 
+</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>Admin1, City in UNITED STATES OF AMERICA</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>National Institute of General Medical Sciences</funderName>
+      <funderIdentifier funderIdentifierType="Crossref Funder ID">10.13039/100000057</funderIdentifier>
+      <awardNumber awardURI="https://projectreporter.nih.gov/project_info_description.cfm?aid=9294077&amp;icde=35186676&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=3&amp;csb=default&amp;cs=ASC&amp;pball=5U54GM088491-09">5U54GM088491-09 sub 5077</awardNumber>
+      <awardTitle>Computational Models of Infectious Disease Threats, Data &amp; Parameters</awardTitle>
+    </fundingReference>
+    <fundingReference>
+      <funderName>Bill &amp; Melinda Gates Foundation</funderName>
+      <funderIdentifier funderIdentifierType="Crossref Funder ID">10.13039/100000865</funderIdentifier>
+      <awardNumber>49276</awardNumber>
+      <awardTitle>Evaluation of Candidate Vaccine Technologies Using Computational Models</awardTitle>
+    </fundingReference>
+    <fundingReference>
+      <funderName>National Institute of General Medical Sciences</funderName>
+      <funderIdentifier funderIdentifierType="Crossref Funder ID">10.13039/100000057</funderIdentifier>
+      <awardNumber awardURI="https://projectreporter.nih.gov/project_info_details.cfm?aid=9294075&amp;icde=35532330">5U54GM088491-09</awardNumber>
+      <awardTitle>Computational Models of Infectious Disease Threats</awardTitle>
+    </fundingReference>
+  </fundingReferences>
+</resource>
